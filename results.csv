@@ -1,0 +1,21 @@
+StudentID,Name,Department,Math,Physics,Chemistry,English,Computer,Attendance,Total,Average,Grade,Result,LowAttendance
+S001,Aarav Sharma,CSE,88,82,79,85,92,94,426,85.2,A,Pass,No
+S002,Priya Verma,CSE,76,71,68,80,85,88,380,76.0,B,Pass,No
+S003,Rohan Gupta,ECE,54,48,60,65,58,72,285,57.0,D,Pass,Yes
+S004,Ananya Singh,CSE,95,91,89,92,97,98,464,92.8,A+,Pass,No
+S005,Vikram Yadav,ME,42,38,45,50,40,65,215,43.0,E,Pass,Yes
+S006,Sneha Kumari,ECE,81,77,74,83,79,90,394,78.8,B,Pass,No
+S007,Karan Malhotra,ME,33,40,36,45,38,58,192,38.4,F,Fail,Yes
+S008,Isha Jain,CSE,67,62,70,74,69,81,342,68.4,C,Pass,No
+S009,Aditya Rao,ECE,90,86,84,78,88,93,426,85.2,A,Pass,No
+S010,Neha Patel,ME,58,55,61,66,52,76,292,58.4,D,Pass,No
+S011,Rahul Mehta,CSE,72,68,65,70,75,85,350,70.0,B,Pass,No
+S012,Pooja Chauhan,ECE,47,52,44,60,55,70,258,51.6,D,Pass,Yes
+S013,Siddharth Nair,ME,84,79,81,76,80,91,400,80.0,A,Pass,No
+S014,Kavya Reddy,CSE,91,94,88,90,95,97,458,91.6,A+,Pass,No
+S015,Manish Tiwari,ECE,29,35,31,48,42,55,185,37.0,F,Fail,Yes
+S016,Divya Bansal,ME,63,59,66,72,60,79,320,64.0,C,Pass,No
+S017,Arjun Das,CSE,78,83,75,69,86,89,391,78.2,B,Pass,No
+S018,Meera Joshi,ECE,69,64,71,77,66,83,347,69.4,C,Pass,No
+S019,Harsh Saini,ME,51,46,49,58,44,68,248,49.6,E,Pass,Yes
+S020,Riya Kapoor,CSE,86,89,92,88,90,96,445,89.0,A,Pass,No
